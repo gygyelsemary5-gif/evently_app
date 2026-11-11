@@ -1,0 +1,22 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#000F30"
+
+  image: assets/images/Evently.png
+  image_dark: assets/images/Evently.dark.png
+
+  branding: assets/images/pranding.png
+  branding_mode: bottom
+  branding_bottom_padding: 24
+
+  fullscreen: true
+
+  android_12:
+    color: "#FFFFFF"
+    color_dark: "#000F30"
+
+    image: assets/images/splashAndroid12Light.png
+    image_dark: assets/images/splashAndroid12Dark.png
+
+    branding: assets/images/prandingLight.png
+    branding_dark: assets/images/prandingDark.png
